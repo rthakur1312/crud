@@ -18,7 +18,7 @@
         
         <?php
         
-        header("Location:https://www.google.com/");
+        
         
         require "mysqli_connect.php";
         
