@@ -11,7 +11,7 @@
         
         <nav>
             
-            <span> <a href = "Index.php"> Shoppy </a> </span>
+            <span> Shoppy </span>
             <a href = "register.php"> Become a seller </a>
         
         </nav>
